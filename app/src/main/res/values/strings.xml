@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VKFriends</string>
+    <string name="start_button_text_auth">Аторизоваться</string>
+    <string name="start_text_info">Добро Пожаловать в приложение Друзья ВКонтакте. Пожалуйста, авторизуйтесь, чтобы
+        увидеть своих друзей.
+    </string>
+    <integer name="com_vk_sdk_AppId">7086045</integer>
+</resources>
